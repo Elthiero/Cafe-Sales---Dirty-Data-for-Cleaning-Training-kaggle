@@ -59,8 +59,8 @@ To run this project on your local machine, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://your-repository-url.git](https://your-repository-url.git)
-    cd your-repository-directory
+    git clone [Cafe-Sales---Dirty-Data-for-Cleaning-Training-kaggle]([https://your-repository-url.git](https://github.com/Elthiero/Cafe-Sales---Dirty-Data-for-Cleaning-Training-kaggle.git))
+    cd Cafe-Sales---Dirty-Data-for-Cleaning-Training-kaggle
     ```
     check if the file "dirty_cafe_sales.csv" exist.
 
